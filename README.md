@@ -2,7 +2,8 @@
 
 
 # Franco Ti
-desenvolvimento de um sistema desktop para gestão de ordem de serviço 
+desenvolvimento de um sistema desktop para gestão de ordem de serviço  de uma assistência de computadores e notebooks.
+
 
 ## Autor
 kayque Franco
